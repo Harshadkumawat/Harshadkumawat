@@ -14,14 +14,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshadkumawat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshadkumawat&theme=radical" />
-</p>
-
----
 
 
