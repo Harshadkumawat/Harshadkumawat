@@ -1,15 +1,45 @@
-<h1 align="center">Hi 👋, I'm Harshad Kumawat</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+# Hi 👋 I'm Harshad Kumawat
 
-- 🌱 I’m currently learning **Next.js and TS**
-- 💬 Ask me about **React, Node, Express, MongoDB, Tailwind CSS**
-- 📫 How to reach me: **Harshadkumawat339977@gmail.com**
-- 
+### Full Stack MERN Developer | Docker & AWS | CI/CD
 
 ---
 
-### 🛠 Tech Stack:
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+### 🚀 About Me:
+- 🔭 Currently working on production MERN apps
+- 🐳 Experience with Docker & AWS EC2 deployment  
+- ⚙️ Built CI/CD pipelines with GitHub Actions
+- 📍 Based in Indore, India | Open to Remote
+
+---
+
+### 🛠️ Tech Stack:
+
+**Frontend:**
+React.js | Redux | Next.js | Tailwind CSS
+
+**Backend:**
+Node.js | Express.js | JWT | REST API
+
+**Database:**
+MongoDB | Mongoose
+
+**DevOps:**
+Docker | AWS EC2 | GitHub Actions | Nginx
+
+---
+
+### 📌 Featured Projects:
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| InfluencerBridge | Full stack MERN + JWT + RBAC | React, Node, MongoDB, Docker |
+| Crypto Bazar | Real-time crypto tracker | React, CoinGecko API |
+| News App | News aggregator | React, Vite, News API |
+
+---
+
+### 📫 Contact:
+- Email: harshadkumawat339977@gmail.com
+- LinkedIn: [Harshad Kumawat](https://linkedin.com/in/harshad-kumawat)
+- Portfolio: https://self-portfolio-five-ecru.vercel.app/
+``
